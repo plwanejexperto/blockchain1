@@ -1,4 +1,4 @@
-hexa = '0xa5839F87f0cC7409842a238aA28BE2D051D9B948'
+hexa = 'a5839f87f0cc7409842a238aa28be2d051d9b948'
 deci = str(int(hexa,16))
 summ = 0
 for i in deci:
